@@ -1,0 +1,12 @@
+{
+    "m" : 3,
+    "path" : "/home/eeng/",
+    "driver_aps": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+    "url_aps" : "jdbc:sqlserver://10.8.10.11:17001;database=DEV2_DORA_ODS",
+    "cre_aps": ["12023227", "P@ssw0rd"],
+    "driver_path_aps" : "/home/eeng/Downloads/sqljdbc/mssql-jdbc-8.2.2.jre11.jar",
+    "driver_sql": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+    "url_sql" : "jdbc:sqlserver://10.8.10.243\\SQL17:1434;database=DPSource",
+    "cre_sql": ["sa", "P@ssw0rd."],
+    "driver_path_sql" : "/home/eeng/Downloads/sqljdbc/mssql-jdbc-8.2.2.jre11.jar"
+}
